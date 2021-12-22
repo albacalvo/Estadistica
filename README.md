@@ -1,3 +1,3 @@
 # Estadística en R
-Regresión lineal simple
-Distribuciones de probabilidad
+- Regresión lineal simple
+- Distribuciones de probabilidad
